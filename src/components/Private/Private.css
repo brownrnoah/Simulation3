@@ -1,0 +1,32 @@
+.image{
+    width: 129px;
+    height: 129px;
+    border:3px solid #ff8c6f;
+    margin: 9px;
+}
+
+.profile_snapshot{
+    display: flex;
+    width: 300px;
+}
+
+.userInfo{
+    width: 150px;
+    margin: 9px;
+}
+
+.edit{
+    height: 35px;
+    width: 150px;
+
+}
+
+.firstName{
+    height: 33px;
+    width: 150px;
+}
+
+.lastName{
+    height: 33px;
+    width: 150px;
+}

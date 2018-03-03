@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    background-color: #ff8c6f;
+    justify-content: space-between;
+    color: white;
+}
+
+.nav{
+    display: inherit;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
